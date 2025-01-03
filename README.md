@@ -1,4 +1,6 @@
-A very barebone/lightweight XSS Scanner that I created in late 2022 (10th grade).  
+A very barebone/lightweight Cross-Site Scripting (XSS) Scanner that I created in late 2022 (10th grade).  
+
+More on [cross-site scripting](https://portswigger.net/web-security/cross-site-scripting).
 
 It features:
 - endpoint crawling
