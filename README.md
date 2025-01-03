@@ -1,0 +1,1 @@
+A very barebone/lightweight XSS Scanner that I created in 10th grade. 
