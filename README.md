@@ -1,4 +1,4 @@
-A very barebone/lightweight XSS Scanner that I created in late 2022.  
+A very barebone/lightweight XSS Scanner that I created in late 2022 (10th grade).  
 
 It features:
 - endpoint crawling
